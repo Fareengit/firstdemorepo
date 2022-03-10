@@ -1,0 +1,2 @@
+tis is to understand git commit commands
+
